@@ -9,7 +9,7 @@ The goal is to classify emails as:
 * **Legitimate (0)**
 * **Phishing (1)**
 
-The system extracts structural and behavioral features from email content and trains multiple supervised learning models to detect phishing attempts accurately.
+The project extracts structural and behavioral features from email content and trains multiple supervised learning models to detect phishing attempts accurately.
 
 ---
 
@@ -170,6 +170,7 @@ python app.py
 ## 📚 Reference
 
 CEAS08 – Phishing Email Curated Dataset (Zenodo)
+
 
 
 
