@@ -124,11 +124,6 @@ Random Forest achieved the highest overall performance and was selected as the f
 * joblib
 * Jupyter Notebook
 
----
-
-## 📚 Reference
-
-CEAS08 – Phishing Email Curated Dataset (Zenodo)
 
 
 
