@@ -14,14 +14,19 @@ The system extracts structural and behavioral features from email content and tr
 ---
 
 ## 📂 Dataset
+## Dataset
 
-* **Dataset:** CEAS08 subset from Zenodo
+* **Dataset:** CEAS08 Phishing Email Dataset from Zenodo
 * **Original Size:** 71,487 emails
 * **After Cleaning:** 39,154 emails
 * **Class Distribution:**
 
   * 55.8% Phishing
   * 44.2% Legitimate
+ 
+Due to file size limitations, the dataset is not included in this repository.
+It can be downloaded from:
+https://zenodo.org/record/1229831
 
 ### Features Used from Dataset:
 
@@ -165,5 +170,6 @@ python app.py
 ## 📚 Reference
 
 CEAS08 – Phishing Email Curated Dataset (Zenodo)
+
 
 
