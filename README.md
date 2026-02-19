@@ -113,30 +113,6 @@ Random Forest achieved the highest overall performance and was selected as the f
 
 ---
 
-## 💾 Model Saving
-
-The final trained model was saved using:
-
-* `phishing_model.joblib`
-* `feature_columns.joblib`
-
-This allows future prediction on new emails using the same feature structure.
-
----
-
-## 🖥️ GUI Implementation
-
-A simple GUI was developed to:
-
-* Input sender, subject, body, and URLs
-* Analyze email features
-* Predict phishing or safe
-* Display risk percentage
-
-This makes the system usable by non-technical users.
-
----
-
 ## 🛠️ Technologies Used
 
 * Python
@@ -150,25 +126,10 @@ This makes the system usable by non-technical users.
 
 ---
 
-## 🚀 How to Run
-
-1. Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-2. Run the notebook or GUI script:
-
-```bash
-python app.py
-```
-
----
-
 ## 📚 Reference
 
 CEAS08 – Phishing Email Curated Dataset (Zenodo)
+
 
 
 
